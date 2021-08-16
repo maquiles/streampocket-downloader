@@ -13,7 +13,7 @@ requests
 ## Prerequisites
 * clone the repo
 ```
-git clone TODO
+git clone https://github.com/maquiles/streampocket-downloader.git
 ```
 * install requests package
 ```
